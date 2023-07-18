@@ -1,3 +1,4 @@
+![logo](https://github.com/Miraz-Hossain/Miraz-Hossain/blob/main/miraz1%20(1).gif)
 <h1 align="center">Hi 👋, I'm Md Miraz Hossain</h1>
 <h3 align="center">A passionate App developer from Bangladesh</h3>
 <img align="right" all="coding" width="400" src="https://github.com/Miraz-Hossain/Miraz-Hossain/blob/main/miraz.gif">
